@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SzachyKonsola/1.0.0": {
+        "dependencies": {
+          "Szachlogika": "1.0.0"
+        },
+        "runtime": {
+          "SzachyKonsola.dll": {}
+        }
+      },
+      "Szachlogika/1.0.0": {
+        "runtime": {
+          "Szachlogika.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SzachyKonsola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Szachlogika/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

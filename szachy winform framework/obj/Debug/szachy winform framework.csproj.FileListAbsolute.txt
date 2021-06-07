@@ -1,0 +1,60 @@
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\obj\Debug\szachy winform framework.csprojAssemblyReference.cache
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\obj\Debug\szachy_winform_framework.Properties.Resources.resources
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\obj\Debug\szachy winform framework.csproj.GenerateResource.cache
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\obj\Debug\szachy winform framework.csproj.CoreCompileInputs.cache
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\Img\biały krol.png
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\Img\czarny krol.png
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\Img\goniec biały.png
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\Img\goniec czarny.png
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\Img\goniectemp.png
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\Img\Image1.png
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\Img\kon biały.png
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\Img\kon czarny.png
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\Img\krolowa biala.png
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\Img\krolowa czana.png
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\Img\pionek biały.png
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\Img\pionek czarny.png
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\Img\szachownica1.png
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\Img\wieza biała.png
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\Img\wieza czarna.png
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\szachy winform framework.exe.config
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\szachy winform framework.exe
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\szachy winform framework.pdb
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\ClassLibraryNETFramework.dll
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\szachlogika framewokr.dll
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\szachlogika framewokr.pdb
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\bin\Debug\szachlogika framewokr.dll.config
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\obj\Debug\szachy winform framework.csproj.CopyComplete
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\obj\Debug\szachy winform framework.exe
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\obj\Debug\szachy winform framework.pdb
+C:\Users\s9380bs\source\repos\szachy winform framework\szachy winform framework\obj\Debug\szachforms.szachownicaform.resources
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\Img\biały krol.png
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\Img\czarny krol.png
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\Img\goniec biały.png
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\Img\goniec czarny.png
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\Img\goniectemp.png
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\Img\Image1.png
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\Img\kon biały.png
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\Img\kon czarny.png
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\Img\krolowa biala.png
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\Img\krolowa czana.png
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\Img\pionek biały.png
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\Img\pionek czarny.png
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\Img\szachownica1.png
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\Img\wieza biała.png
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\Img\wieza czarna.png
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\szachy winform framework.exe.config
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\szachy winform framework.exe
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\szachy winform framework.pdb
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\ClassLibraryNETFramework.dll
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\szachlogika framewokr.dll
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\szachlogika framewokr.pdb
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\szachlogika framewokr.dll.config
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\obj\Debug\szachy winform framework.csprojAssemblyReference.cache
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\obj\Debug\szachy_winform_framework.Properties.Resources.resources
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\obj\Debug\szachforms.szachownicaform.resources
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\obj\Debug\szachy winform framework.csproj.GenerateResource.cache
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\obj\Debug\szachy winform framework.csproj.CoreCompileInputs.cache
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\obj\Debug\szachy winform framework.csproj.CopyComplete
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\obj\Debug\szachy winform framework.exe
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\obj\Debug\szachy winform framework.pdb
