@@ -50,7 +50,6 @@ C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bi
 C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\szachlogika framewokr.dll
 C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\szachlogika framewokr.pdb
 C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\bin\Debug\szachlogika framewokr.dll.config
-C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\obj\Debug\szachy winform framework.csprojAssemblyReference.cache
 C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\obj\Debug\szachy_winform_framework.Properties.Resources.resources
 C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\obj\Debug\szachforms.szachownicaform.resources
 C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\obj\Debug\szachy winform framework.csproj.GenerateResource.cache
@@ -58,3 +57,4 @@ C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\ob
 C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\obj\Debug\szachy winform framework.csproj.CopyComplete
 C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\obj\Debug\szachy winform framework.exe
 C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\obj\Debug\szachy winform framework.pdb
+C:\Users\s9380bs\source\repos\szachywinformframework\szachy winform framework\obj\Debug\szachy winform framework.csproj.AssemblyReference.cache

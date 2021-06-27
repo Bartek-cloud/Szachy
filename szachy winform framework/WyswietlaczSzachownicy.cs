@@ -5,7 +5,7 @@ using SzachLogika;
 namespace szachforms
 {
 
-    class WyswietlaczSzachownicyWinform : WyswietlaczSzachownicy
+    public class WyswietlaczSzachownicyWinform : WyswietlaczSzachownicy
     {
         public WyswietlaczSzachownicyWinform()
         {
